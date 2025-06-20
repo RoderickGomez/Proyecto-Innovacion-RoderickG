@@ -1,22 +1,33 @@
-**Multi Ventas G&M**
+# PROYECTO: Multi Ventas G&M
 Digitalización Estratégica y Fidelización.
 
-**Publico objetios:**
+### Publico objetios:
 
-O--> Clientes habituales
+- Clientes habituales
 
-O--> Clientes digitales
+- Clientes digitales
 
-**Problemas:**
+### Problemas:
 
-O--> Inventario desorganizado  y falta de control digital.
+- Inventario desorganizado  y falta de control digital.
  
-O--> Presencia digital minima y sin estrategia.
+- Presencia digital minima y sin estrategia.
 
-**Soluccion**
+### Soluccion:
 
-O--> Reorganizar el inventario fisica y digital.
+- Reorganizar el inventario fisica y digital.
 
-O--> Impulsar la venta online: publicaciones regulares y atención rápida.
+- Impulsar la venta online: publicaciones regulares y atención rápida.
 
-O--> Fidelizar al cliente.
+- Fidelizar al cliente.
+
+# Componentes claves
+
+## Entregable 1
+
+![image](https://github.com/user-attachments/assets/b6a1765e-d460-4392-b83e-16906b9d9e33)
+
+  
+## Entregable 2
+
+![image](https://github.com/user-attachments/assets/6344a3d2-b341-4697-84c0-e2ff8871ae54)
