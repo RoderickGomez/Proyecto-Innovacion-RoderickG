@@ -31,3 +31,5 @@ Digitalización Estratégica y Fidelización.
 ## Entregable 2
 
 ![image](https://github.com/user-attachments/assets/6344a3d2-b341-4697-84c0-e2ff8871ae54)
+
+### Importante: podra ver toda la informacion de los entregables mas detallada en la carpeta de avance!!!
