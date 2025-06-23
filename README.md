@@ -1,7 +1,7 @@
 # PROYECTO: Multi Ventas G&M
 Digitalización Estratégica y Fidelización.
 
-### Publico objetios:
+### Publico objetivos:
 
 - Clientes habituales
 
